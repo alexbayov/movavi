@@ -441,8 +441,7 @@ a:focus, a:hover {
     font-size: 14px;
     font-weight: 400;
     text-align: center;
-    padding-left: 25px;
-
+    padding-left: 0px;
 }
 
 .related-prods-block__btn_wrap {
@@ -1043,6 +1042,15 @@ a:focus, a:hover {
 
     .tx-bl6 {
         height: 620px;
+    }
+
+    .related-prods-block__learn-more {
+        color: #1962b2;
+        text-decoration: underline;
+        font-size: 14px;
+        font-weight: 400;
+        text-align: center;
+        padding-left: 15px;
     }
 
 }
